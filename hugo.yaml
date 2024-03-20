@@ -14,7 +14,7 @@ params:
     enabled: True
     title: I'm Mark Tallentire
     subtitle: I enable people to build cool things and put them in the cloud.
-    imageUrl: /assets/images/profile.jpg
+    imageUrl: /static/profile.jpg
     imageTitle: logo
   socialIcons:
     - name: "linkedin"
