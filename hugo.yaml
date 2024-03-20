@@ -1,0 +1,32 @@
+baseURL: https://marktallentire.com/
+languageCode: en-us
+title: Mark Tallentire
+enableEmoji: true
+params:
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  ShowShareButtons: true
+  defaultTheme: auto
+  disableThemeToggle: false
+  subtitle: A Blog About Stuff and things.
+  profileMode:
+    enabled: True
+    title: I'm Mark Tallentire
+    subtitle: I enable people to build cool things and put them in the cloud.
+    imageUrl: /assets/images/profile.jpg
+    imageTitle: logo
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/mark-tallentire-a1331738/"
+    - name: "github"
+      url: "https://github.com/marktallentire"
+theme: ["hugo-video", "papermod"]
+
+#menu: 
+#  main:
+#    - identifier: Blog
+#      name: Blog
+#      url: /posts/
+
+
